@@ -2,8 +2,8 @@
 
 
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-# 💫 About Me:
-💫 ¡Hola! Soy Joan Valor<br><br>💻 Un apasionado de la programación, disfruto mucho diseñando webs, explorando la creatividad que esto ofrece.<br><br>⚒️ Siempre buscando aprender y mejorar en este campo.<br><br>📚 Me encanta leer, salir de excursión para conectar con la naturaleza en mis ratos libres.<br><br>🎥 También soy un auténtico friki del cine, el anime, y las películas que me hacen pensar y disfrutar.<br><br>💡 Cada día es una oportunidad para descubrir algo nuevo, ya sea una tecnología, una historia o personas con las que compartir intereses y crear conexiones genuinas.<br><br>😉 ¡Siempre hay algo fascinante por explorar!
+💫 About Me:
+🖖​¡Hola! Soy Joan Valor<br><br>💻 Un apasionado de la programación, disfruto mucho diseñando webs, explorando la creatividad que esto ofrece.<br><br>⚒️ Siempre buscando aprender y mejorar en este campo.<br><br>📚 Me encanta leer, salir de excursión para conectar con la naturaleza en mis ratos libres.<br><br>🎥 También soy un auténtico friki del cine, el anime, y las películas que me hacen pensar y disfrutar.<br><br>💡 Cada día es una oportunidad para descubrir algo nuevo, ya sea una tecnología, una historia o personas con las que compartir intereses y crear conexiones genuinas.<br><br>😉 ¡Siempre hay algo fascinante por explorar!
 
 
 # 💻 Tech Stack:
